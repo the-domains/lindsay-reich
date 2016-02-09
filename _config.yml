@@ -1,0 +1,28 @@
+name: Lindsay.Reich
+favicon: null
+layout_spectrum: 0.3987041125074029
+typography_spectrum: 0.6043243678286672
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9298508074134588
+  lightness: 0.13641761825419962
+  saturation: 0.9445081623271108
+  rhythmicContrast: 0.9556812555529177
+purpose: []
